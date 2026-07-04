@@ -1,4 +1,3 @@
-package com.todo.entity;
 import jakarta.persistence.*;
 import lombok.*;
 @Entity
